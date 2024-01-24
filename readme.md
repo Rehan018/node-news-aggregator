@@ -57,8 +57,9 @@ The project follows a modular structure, with different components handling spec
 
 - **Configuration:**
   - `app.js`: Initializes and configures the Express application.
-  -----------------------------------------------------------------
-    node-news-aggregator
+  ---------------------------------------------------------------
+``````
+node-news-aggregator
     |-- src
         |-- controllers
             |-- NewsController.js
@@ -96,7 +97,7 @@ The project follows a modular structure, with different components handling spec
     |-- .gitignore
     |-- package.json
     |-- README.md
-
+``````
 ## Implementation Details
 
 1. **User Authentication:**
