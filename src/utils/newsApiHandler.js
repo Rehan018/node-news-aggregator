@@ -1,4 +1,4 @@
-// src/utils/newsApiHandler.js
+
 const NewsAPI = require('newsapi');
 const newsapi = new NewsAPI('ef44a074e9034713846c50d014963771');
 class NewsApiHandler {
