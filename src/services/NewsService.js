@@ -11,7 +11,7 @@ class NewsService {
         const savedArticle = await NewsArticle.create({
           title: article.title || 'Untitled',
           description: article.description || 'No description available.',
-          url: article.url || '#',
+          url: article.url || 'https://www.nytimes.com/international/',
           publishedAt: new Date(article.publishedAt),
           keywords: article.keywords || [],
         });
