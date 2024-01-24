@@ -1,4 +1,4 @@
-// src/controllers/NewsController.js
+
 const NewsService = require('../services/NewsService.js');
 
 class NewsController {
