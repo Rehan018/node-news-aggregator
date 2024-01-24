@@ -82,19 +82,6 @@ node-news-aggregator
             |-- keywordExtractor.js
             |-- newsApiHandler.js
         |-- app.js
-    |-- tests
-        |-- controllers
-            |-- NewsController.test.js
-            |-- UserController.test.js
-        |-- middleware
-            |-- authenticationMiddleware.test.js
-            |-- errorHandlingMiddleware.test.js
-        |-- services
-            |-- NewsService.test.js
-            |-- SentimentService.test.js
-            |-- UserService.test.js
-    |-- .env (environment variables)
-    |-- .gitignore
     |-- package.json
     |-- README.md
 ``````
